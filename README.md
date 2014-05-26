@@ -1,5 +1,15 @@
-Train-Stations-DB
-week 5, day 2 (PM work): train stations database for conductors to add and riders to view (Ruby & SQL)
+Train Stations - DB, Ruby
+===========================
+
+March 18, 2014
+
+Epicodus: Week5, Day2
+
+
+**************************
+Lesson
+
+Train stations database for conductors to add and riders to view (Ruby & SQL)
 
 
 Train system Make a program to map a train system. It should allow trains system operators to add and update information, and train riders to get information out.
