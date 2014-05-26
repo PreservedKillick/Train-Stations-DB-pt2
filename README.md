@@ -1,9 +1,9 @@
 Train Stations - DB, Ruby
 ===========================
 
-March 18, 2014
+March 19, 2014
 
-Epicodus: Week5, Day2
+Epicodus: Week5, Day3
 
 
 **************************
